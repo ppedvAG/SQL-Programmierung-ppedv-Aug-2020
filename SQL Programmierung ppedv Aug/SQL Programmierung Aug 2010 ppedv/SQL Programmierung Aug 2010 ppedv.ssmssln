@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Programmierung Aug 2010 ppedv", "SQL Programmierung Aug 2010 ppedv\SQL Programmierung Aug 2010 ppedv.ssmssqlproj", "{57DD6B4C-E63D-42A5-9E8E-78AE9E6FE07C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DD6B4C-E63D-42A5-9E8E-78AE9E6FE07C}.Default|Default.ActiveCfg = Default
+		{C0DCD3AC-7870-458B-A452-0FD6DD7E4A94}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0D3AAE5-5B53-4819-BF84-3D1119269A97}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Programmierung Aug 2010 ppedv">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="0001_DBDesign.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0001_DBDesign.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0002_Seiten_Block.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0002_Seiten_Block.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0003_Dateigruppen und Partitionierung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0003_Dateigruppen und Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0004_Prozeduren.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0004_Prozeduren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0005_Sichten.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0005_Sichten.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_tempTabellen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_tempTabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0008_logischer Fluss.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0008_logischer Fluss.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0008_Partitionierung.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0008_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0009_Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0009_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0011_Transactions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0011_Transactions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0020_UNION_INTERSECT_EXCEPT.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0020_UNION_INTERSECT_EXCEPT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="00-setup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>00-setup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01-is-json.SQL">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>01-is-json.SQL</FullPath>
+        </FileNode>
+        <FileNode Name="02a-json_value.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02a-json_value.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02b-json_value.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>02b-json_value.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03a-json_query.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03a-json_query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03b-json_query.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03b-json_query.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03-json-path-modes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03-json-path-modes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04-json_modify.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>04-json_modify.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05-openjson.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>05-openjson.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06a-for-json-auto.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06a-for-json-auto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06b-for-json-path.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06b-for-json-path.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CTE Aufbau.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CTE Aufbau.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Cursor_Navigation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Cursor_Navigation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Einfacher Cursor_DEMO.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Einfacher Cursor_DEMO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Indzierte Sicht.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Indzierte Sicht.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Locks finden.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Locks finden.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Locks setzen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Locks setzen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Skalarwertfunktion.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Skalarwertfunktion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tabellenwertfunktion.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Tabellenwertfunktion.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Try_catch.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Try_catch.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="SQL Programmierung.ssmssqlproj">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Programmierung.ssmssqlproj</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server-Skripts1.ssmssqlproj">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SQL Server-Skripts1.ssmssqlproj</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
